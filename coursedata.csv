@@ -1,0 +1,493 @@
+course_name,fin_aid_status,no_enrolled,no_reviews,skills,star_rating
+"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",Financial aid available,343931,18784,computer vision|tensorflow|machine learning,4.8
+Google Advanced Data Analytics Capstone,Financial aid available,11511,156,executive summaries|machine learning|python programming|technical interview preparation|data analysis,4.9
+Excel Basics for Data Analysis,Financial aid available,222648,6194,data science|spreadsheet|microsoft excel|data analysis|pivot table,4.8
+"Decisions, Decisions: Dashboards and Reports",Financial aid available,10598,223,presenting data insights|tableau software|data visualization (dataviz)|effective communication|dashboarding and reporting,4.8
+Introduction to Data Engineering,Financial aid available,93254,1929,data science|information engineering|database (dbms)|nosql|sql,4.7
+Machine Learning with Python,Financial aid available,357303,14416,scipy and scikit-learn|machine learning|regression|classification|hierarchical clustering,4.7
+Data Visualization with Python,Financial aid available,227526,11103,dashboards and charts|dash|python programming|matplotlib|data visualization (dataviz),4.5
+Data Science with R - Capstone Project,Financial aid available,7207,40,data science|r programming|data visualization (dataviz)|linear regression|exploratory data analysis,4.5
+Data Engineering Capstone Project,Financial aid available,6643,58,relational databases|python programming|nosql|data pipelines|sql,4.6
+Data Visualization with R,Financial aid available,13699,174,data science|data analysis|data visualization (dataviz)|r programming,4.6
+Data Analysis with R,Financial aid available,15663,232,data science|statistical analysis|r programming|data analysis|data visualization (dataviz),4.7
+Career Support Community and Resources,Financial aid available,0,0,professional development|research technology trends|establish business partnerships|virtual coaching,0.0
+Microsoft Azure for Data Engineering,Financial aid available,26504,416,microsoft azure|data security|information engineering|cloud data solutions,4.5
+IBM Data Analyst Capstone Project,Financial aid available,39073,893,python programming|data analysis|sql and rdbms|data visualization (dataviz)|dashboard,4.6
+Applied Data Science Capstone,Financial aid available,137842,6713,methodology|github|jupyter notebook|data science methodology|k-means clustering,4.7
+Supporting Clients,Financial aid available,0,0,occupational guidance|onboarding preparation|resume preparation|networking,0.0
+Google Data Analytics Capstone: Complete a Case Study,Financial aid available,349070,11546,job portfolio|data cleansing|data analysis|data visualization (dataviz)|case study,4.8
+Share Data Through the Art of Visualization,Financial aid available,391675,7189,data analysis|tableau software|data visualization (dataviz)|presentation,4.6
+Data Analysis with R Programming,Financial aid available,409499,8073,r programming|data analysis|data visualization (dataviz)|r markdown|rstudio,4.8
+GST - Genesis and imposition!,Financial aid available,3482,32,gst technical|concept of supply|problem solving|gst law|interpretation,4.6
+Analyze Data to Answer Questions,Financial aid available,424983,8936,spreadsheet|data analysis|sql|data calculations|data aggregation,4.6
+Prepare Data for Exploration,Financial aid available,591390,16249,spreadsheet|metadata|data collection|data ethics|sql,4.8
+Practical Guide to Navigating Professional Relationships,Financial aid available,4498,23,empathy|proactivity|creative problem solving|coachability|communication,4.6
+Boosting Productivity through the Tech Stack,Financial aid available,3564,17,prospecting|video prospecting|sales development|sales engagement|customer relationship management software,4.1
+Groundwork for Success in Sales Development,Financial aid available,32703,305,sales|sales development|teamwork|time management,4.5
+Ask Questions to Make Data-Driven Decisions,Financial aid available,790067,26959,spreadsheet|questioning|decision-making|problem solving|data analysis,4.7
+Foundations for Interviewing with Confidence,Financial aid available,8249,55,personal advertisement|audience|interviewing|personal branding|resume writing,4.5
+"Foundations: Data, Data, Everywhere",Financial aid available,2020669,88486,spreadsheet|data cleansing|data analysis|data visualization (dataviz)|sql,4.8
+"Client Intake, Assessments, Skill Analysis and Planning",Financial aid available,0,19,case management|outreach|intake|gap analysis|recruitment,4.6
+Conversational Selling Playbook for SDRs,Financial aid available,5690,26,sales development|cold emailing|sales|objection handling|cold calling,4.7
+Process Data from Dirty to Clean,Financial aid available,493380,12328,spreadsheet|data cleansing|sample size determination|sql|data integrity,4.8
+Basics of Statutory Compliance and Taxation,Financial aid available,2228,10,financial accounting|tds|export and import|interstate transactions,5.0
+Fundamentals of Accounting and Reporting,Financial aid available,7248,54,bookkeeping|financial accounting|unary language|accounting|banking,4.6
+Foundations of Career Navigating and Coaching,Financial aid available,5142,59,crisis intervention|establishing trust|establish coaching agreements|human-centered coaching,4.7
+Principles of Accounts Payable and Receivable Management ,Financial aid available,3183,19,gst|stock management|financial accounting|cost and profit|basic computer skills,4.5
+GST - Claiming refunds and other concepts,Financial aid available,0,0,decision-making|refunds|problem solving|gst law|interpretation,0.0
+GST - Undertaking compliances,Financial aid available,0,0,gst compliances|registration and reconciliation|gst payments|return filing,0.0
+"GST - Maintaining documents, accounts and records",Financial aid available,0,0,data collection|gst compliances|e-invoicing & e-way bill|gst reconciliation,0.0
+GST - Using input tax credit,Financial aid available,0,0,credit reconciliation|credit distribution|problem solving|input tax credit|interpretation,0.0
+SQL for Data Science with R,Financial aid available,11700,91,data science|select (sql)|relational databases (rdbms)|r programming|data analysis,4.2
+"GST - Audit, assessment and litigation",Financial aid available,0,0,decision-making|gst law|gst technical|assessments & tax dispute resolution,0.0
+Introduction to R Programming for Data Science,Financial aid available,29438,350,data science|r programming,4.5
+"GST - when, where, who and how much?",Financial aid available,0,0,place of supply|time of supply|gst technical|decision-making|problem solving,0.0
+Introduction to Data Analytics,Financial aid available,370590,12482,data science|spreadsheet|microsoft excel|data analysis|data visualization (dataviz),4.8
+Data Visualization and Dashboards with Excel and Cognos,Financial aid available,94923,2931,microsoft excel|data analysis|data visualization (dataviz)|ibm cognos analytics|dashboard,4.7
+Introduction to Big Data with Spark and Hadoop,Financial aid available,31022,244,apache hadoop|sparksql|sparkml|big data|apache spark,4.3
+Introduction to NoSQL Databases,Financial aid available,24898,189,mongodb|nosql|cloud database|cloudant|cassandra,4.6
+Assessment for Data Analysis and Visualization Foundations,Financial aid available,7889,151,,4.5
+Getting Started with Data Warehousing and BI Analytics,Financial aid available,15073,111,data warehousing|cube and rollup|business intelligence (bi)|star and snowflake schema|cognos analytics,4.3
+Machine Learning with Apache Spark,Financial aid available,0,0,machine learning|sparkml|data engineer|apache spark|machine learning pipelines,0.0
+"ETL and Data Pipelines with Shell, Airflow and Kafka",Financial aid available,28582,227,apache airflow|apache kafka|data pipelines|extract transform and load (etl)|data engineer,4.5
+Hands-on Introduction to Linux Commands and Shell Scripting,Financial aid available,60903,825,linux|bash (unix shell)|extract transform and load (etl)|linux commands|shell script,4.6
+Relational Database Administration (DBA),Financial aid available,14728,111,database (dbms)|database servers|relational database|database security|database administration,4.5
+Introduction to Relational Databases (RDBMS),Financial aid available,34146,403,database (db) design|database architecture|postgresql|mysql|relational database management system (rdbms),4.7
+Excel Basics for Data Analysis,Financial aid available,222648,6194,data science|spreadsheet|microsoft excel|data analysis|pivot table,4.8
+Databases and SQL for Data Science with Python,Financial aid available,361691,18100,cloud databases|python programming|jupyter notebooks|relational database management system (rdbms)|sql,4.6
+Databases and SQL for Data Science with Python,Financial aid available,361691,18100,cloud databases|python programming|jupyter notebooks|relational database management system (rdbms)|sql,4.6
+Python Project for Data Science,Financial aid available,150936,3456,data science|python programming|data analysis|pandas|jupyter notebooks,4.5
+Introduction to Data Engineering,Financial aid available,93254,1929,data science|information engineering|database (dbms)|nosql|sql,4.7
+Data Analysis with Python,Financial aid available,354014,16980,predictive modelling|python programming|data analysis|data visualization (dataviz)|model selection,4.7
+Python Project for Data Engineering,Financial aid available,28473,425,information engineering|python programming|extract transform and load (etl)|data engineer|web scraping,4.6
+"Python for Data Science, AI & Development",Financial aid available,624728,32856,data science|python programming|data analysis|pandas|numpy,4.6
+Data Science Methodology,Financial aid available,255049,19313,data science|methodology|crisp-dm|data analysis|data mining,4.6
+Tools for Data Science,Financial aid available,397900,27089,data science|github|python programming|jupyter notebooks|rstudio,4.5
+What is Data Science? ,Financial aid available,831025,64613,data science|deep learning|machine learning|big data|data mining,4.7
+Databases and SQL for Data Science with Python,Financial aid available,361691,18100,cloud databases|python programming|jupyter notebooks|relational database management system (rdbms)|sql,4.6
+Python Project for Data Science,Financial aid available,150936,3456,data science|python programming|data analysis|pandas|jupyter notebooks,4.5
+Data Visualization with Python,Financial aid available,227526,11103,dashboards and charts|dash|python programming|matplotlib|data visualization (dataviz),4.5
+Data Analysis with Python,Financial aid available,354014,16980,predictive modelling|python programming|data analysis|data visualization (dataviz)|model selection,4.7
+Data Visualization and Dashboards with Excel and Cognos,Financial aid available,94923,2931,microsoft excel|data analysis|data visualization (dataviz)|ibm cognos analytics|dashboard,4.7
+The Path to Insights: Data Models and Pipelines,Financial aid available,13094,160,"data management|google dataflow/google bigquery|extraction, transformation and loading (etl)|database optimization|data transformation",4.7
+Foundations of Business Intelligence,Financial aid available,38237,447,stakeholder management|sharing insights with stakeholders|asking effective questions|cross-functional team dynamics|business processes and requirements,4.8
+Azure Data Lake Storage Gen2 and Data Streaming Solution,Financial aid available,3810,23,upload|data streaming|microsoft azure|big data|complex event processing (cep),4.1
+Microsoft Azure Databricks for Data Engineering,Financial aid available,10811,72,microsoft azure|information engineering|data processing|data management,4.4
+Introduction to Data Analytics,Financial aid available,370590,12482,data science|spreadsheet|microsoft excel|data analysis|data visualization (dataviz),4.8
+"Python for Data Science, AI & Development",Financial aid available,624728,32856,data science|python programming|data analysis|pandas|numpy,4.6
+"Python for Data Science, AI & Development",Financial aid available,624728,32856,data science|python programming|data analysis|pandas|numpy,4.6
+Data Engineering with MS Azure Synapse Apache Spark Pools,Financial aid available,4390,26,data management|information engineering|microsoft azure|apache spark|sql,3.8
+Operational Analytics with Microsoft Azure Synapse Analytics,Financial aid available,3377,17,microsoft azure|analytics|apache spark,4.5
+Prepare for DP-203: Data Engineering on Microsoft Azure Exam,Financial aid available,4794,41,test preparation|microsoft azure|information engineering,4.4
+Data Storage in Microsoft Azure,Financial aid available,11585,125,microsoft azure|data security|data processing|data storage,4.3
+Introduction to Microsoft Azure Synapse Analytics,Financial aid available,6516,53,microsoft azure|data analysis|data warehousing|data architecture,3.9
+Data Integration with Microsoft Azure Data Factory,Financial aid available,10326,111,microsoft azure|data integration|data pipelines,3.9
+Data Warehousing Capstone Project,Financial aid available,0,0,"oltp databases|data warehousing|relational database|extraction, transformation and loading (etl)|data pipelines",0.0
+"ETL and Data Pipelines with Shell, Airflow and Kafka",Financial aid available,28582,227,apache airflow|apache kafka|data pipelines|extract transform and load (etl)|data engineer,4.5
+Getting Started with Data Warehousing and BI Analytics,Financial aid available,15073,111,data warehousing|cube and rollup|business intelligence (bi)|star and snowflake schema|cognos analytics,4.3
+Hands-on Introduction to Linux Commands and Shell Scripting,Financial aid available,60903,825,linux|bash (unix shell)|extract transform and load (etl)|linux commands|shell script,4.6
+Introduction to Relational Databases (RDBMS),Financial aid available,34146,403,database (db) design|database architecture|postgresql|mysql|relational database management system (rdbms),4.7
+Data Warehousing with Microsoft Azure Synapse Analytics,Financial aid available,5425,38,microsoft azure|data warehousing|data security,3.9
+SQL: A Practical Introduction for Querying Databases,Financial aid available,9035,123,"create, read, update and delete|data analysis|mysql|relational database management system (rdbms)|sql",4.7
+Go Beyond the Numbers: Translate Data into Insights,Financial aid available,17130,188,python programming|tableau software|data visualization (dataviz)|effective communication|exploratory data analysis,4.7
+The Nuts and Bolts of Machine Learning,Financial aid available,12119,92,predictive modelling|machine learning|python programming|stack overflow|effective communication,4.8
+Relational Database Administration (DBA),Financial aid available,14728,111,database (dbms)|database servers|relational database|database security|database administration,4.5
+Coding Interview Preparation,Financial aid available,38291,226,pseudocode|algorithms|communication|data structure|computer science,4.7
+Regression Analysis: Simplify Complex Data Relationships,Financial aid available,11983,112,predictive modelling|statistical analysis|python programming|effective communication|regression modeling,4.7
+Get Started with Python,Financial aid available,29555,397,using comments to enhance code readability|python programming|jupyter notebook|data visualization (dataviz)|coding,4.8
+The Power of Statistics,Financial aid available,15603,166,statistical analysis|python programming|effective communication|statistical hypothesis testing|probability distribution,4.8
+Advanced MySQL Topics,Financial aid available,8658,102,database (db) design|database (dbms)|mysql,4.6
+Database Clients,Financial aid available,4473,42,data management|database (dbms)|python programming|mysql|django (web framework),4.2
+Programming in Python,Financial aid available,53167,904,cloud hosting|application programming interfaces (api)|python programming|computer programming|django (web framework),4.6
+Database Structures and Management with MySQL,Financial aid available,12866,224,data management|database (dbms)|relational database|database administration|mysql,4.8
+Prepare for DP-100: Data Science on Microsoft Azure Exam,Financial aid available,4319,30,test preparation|microsoft azure,4.6
+Version Control,Financial aid available,86116,2090,linux|web development|bash (unix shell)|github|version control,4.7
+Database Engineer Capstone,Financial aid available,3543,32,database (dbms)|application development|mysql|django (web framework)|project management,3.7
+Perform data science with Azure Databricks,Financial aid available,4677,33,microsoft azure|machine learning|data processing|azure databricks,3.7
+Advanced Data Modeling,Financial aid available,5300,37,"data model|extraction, transformation and loading (etl)|data warehousing",4.1
+Microsoft Azure Machine Learning for Data Scientists,Financial aid available,6539,76,machine learning|regression|microsoft azure|regression analysis|supervised learning,4.6
+Foundations of Data Science,Financial aid available,54944,872,sharing insights with stakeholders|effective written communication|asking effective questions|cross-functional team dynamics|project management,4.7
+Build and Operate Machine Learning Solutions with Azure,Financial aid available,4570,26,modeling|microsoft azure|data security|machine learning,4.3
+Introduction to Databases,Financial aid available,36576,667,database (dbms)|mysql|database administration,4.7
+Create Machine Learning Models in Microsoft Azure,Financial aid available,14527,150,modeling|microsoft azure|machine learning|experiment,4.6
+Convolutional Neural Networks in TensorFlow,Financial aid available,133892,7878,inductive transfer|augmentation|dropouts|machine learning|tensorflow,4.7
+"Sequences, Time Series and Prediction",Financial aid available,120491,4843,forecasting|machine learning|tensorflow|time series|prediction,4.7
+Natural Language Processing in TensorFlow,Financial aid available,127161,6270,natural language processing|tokenization|machine learning|tensorflow|rnns,4.6
+Managing for Frictionless Sales,Financial aid available,0,0,customer success|sales team management|sales|sales process engineering|onboarding,0.0
+Sales Reporting with HubSpot,Financial aid available,0,0,data management|customer relationship management (crm)|data analysis|sales|data visualization (dataviz),0.0
+Inbound Sales,Financial aid available,0,0,outreach sequence|social selling|customer experience|inside sales|sales presentation,0.0
+Lead Management with HubSpot,Financial aid available,0,0,customer relationship management (crm)|data analysis|lead management,0.0
+Interacting with Customers,Financial aid available,0,0,customer service|communication|de-escalation|time management,0.0
+Introduction to Customer Service,Financial aid available,1627,12,active listening|communication|task prioritization|time management,4.8
+Call Center Customer Service,Financial aid available,0,0,customer service|problem solving|communication|time management|de-escalation,0.0
+Preparing for Your Retail Customer Service Role,Financial aid available,0,0,customer service|communication|resume creation,0.0
+Preparing for Your Call Center Customer Service Role,Financial aid available,0,0,customer service|communication|resume creation,0.0
+Satisfaction Guaranteed: Develop Customer Loyalty Online,Financial aid available,57874,1621,job preparedness|customer relationship management (crm)|portfolio preparation|e-commerce store optimization|building customer loyalty,4.8
+Opportunity Management in Salesforce,Financial aid available,6578,128,crm|opportunity management|sales operations|salesforce lightning|salesforce,4.7
+"Reports, Dashboards, and Customer Success in Salesforce",Financial aid available,10424,123,reports and dashboards|crm|sales operations|customer success|salesforce,4.7
+Interacting with Customers,Financial aid available,0,0,customer service|communication|de-escalation|time management,0.0
+Sales and CRM Overview,Financial aid available,41402,695,crm|sales operations|sales|salesforce sales cloud|salesforce,4.5
+Lead Management in Salesforce,Financial aid available,10449,215,lead management|crm|sales operations|salesforce lightning|salesforce,4.7
+Retail Customer Service,Financial aid available,0,0,customer service|social media|time management|completing retail transactions,0.0
+Assess for Success: Marketing Analytics and Measurement,Financial aid available,73693,877,digital marketing kpis|spreadsheet management|presenting to stakeholders|media planning and strategies|marketing analytics,4.6
+Introduction to Customer Service,Financial aid available,1627,12,active listening|communication|task prioritization|time management,4.8
+"Make the Sale: Build, Launch, and Manage E-commerce Stores",Financial aid available,67807,737,fulfillment and delivery|website structure|e-commerce platforms|e-commerce strategy|seasonality,4.8
+Attract and Engage Customers with Digital Marketing,Financial aid available,161943,3497,website structure|customer awareness|google|search engine marketing|search engine optimization (seo),4.8
+From Likes to Leads: Interact with Customers Online,Financial aid available,98692,1805,social listening|social media bidding|customer engagement|social media analytics|social media branding,4.8
+Foundations of Digital Marketing and E-commerce,Financial aid available,560199,13231,marketing|customer loyalty|e-commerce|marketing analytics|customer outreach,4.8
+Think Outside the Inbox: Email Marketing,Financial aid available,81604,1214,email writing|email list segmentation|email marketing strategy|email marketing analytics|contact management,4.8
+Sales Enablement,Financial aid available,4606,0,customer relationship management (crm)|content creation|customer success|sales|sales enablement,0.0
+Back-end Application Development Capstone Project,Financial aid available,1600,10,docker|mongodb|flask|representational state transfer (rest)|django (web framework),5.0
+Design a User Experience for Social Good & Prepare for Jobs,Financial aid available,118381,2515,user experience (ux)|usability testing|prototype|user experience design (uxd)|ux design jobs,4.9
+DevOps Capstone Project,Financial aid available,5297,49,kubernetes|devops|ci/cd|microservices|cloud computing,4.9
+Technical Support Case Studies and Capstone,Financial aid available,4395,87,networking setup|software configuration|technical support|troubleshooting|helpdesk ticketing systems,4.8
+Continuous Integration and Continuous Delivery (CI/CD),Financial aid available,10258,96,continuous integration|ci/cd|continuous development|automation|infrastructure as code,4.8
+ IT Security: Defense against the digital dark arts ,Financial aid available,337949,20198,cybersecurity|wireless security|cryptography|network security,4.8
+Application Security and Monitoring,Financial aid available,7135,68,open web application security project (owasp)|observability|security|monitoring|logging,4.9
+Introduction to Cybersecurity Essentials,Financial aid available,16092,336,information security (infosec)|cyberattacks|application security|cryptography|cybersecurity,4.9
+Introduction to Cloud Computing,Financial aid available,217106,4156,cloud native|devops|iaas paas saas|hybrid multicloud|cloud computing,4.6
+Introduction to Networking and Storage,Financial aid available,15203,266,cloud storage|network troubleshooting|network architecture|networking hardware|wireless networks,4.7
+Operating Systems Fundamentals,Financial aid available,1932,0,performing basic linux tasks|user and group accounts|managing the file system in linux|managing linux permissions and ownership|managing jobs and processes,0.0
+Coding Interview Preparation,Financial aid available,38291,226,pseudocode|algorithms|communication|data structure|computer science,4.7
+Introduction to iOS Mobile Application Development,Financial aid available,26575,619,ios app development|application development|mobile development,4.7
+Put It to Work: Prepare for Cybersecurity Jobs,Financial aid available,28597,406,job preparedness|stakeholder communication|integrity and discretion|escalation|resume and portfolio preparation,4.9
+Introduction to Agile Development and Scrum,Financial aid available,41538,1227,agile software development|scrum methodology|zenhub|kanban|sprint planning,4.9
+Project Management Capstone,Financial aid available,0,0,agile management|risk management|scrum (software development)|leadership|project management,0.0
+Introduction to Software Engineering,Financial aid available,32210,376,software architecture|python programming|software development lifecycle (sdlc)|software engineering|agile and scrum,4.7
+Coding Interview Preparation,Financial aid available,38291,226,pseudocode|algorithms|communication|data structure|computer science,4.7
+Teach English Now! Capstone Project 2,Financial aid available,18145,922,,4.9
+Introduction to Scrum Master Profession,Financial aid available,2488,18,scrum master|user story|product backlog|sprints|kanban,4.5
+Back-End Developer Capstone ,Financial aid available,10607,50,django (web framework)|mysql|api endpoints,4.5
+Teach English Now! Technology Enriched Teaching,Financial aid available,41024,1445,teaching|english language|lesson plan|plan,4.9
+Information Technology (IT) Fundamentals for Everyone,Financial aid available,2126,19,information technology|operating systems|security|cloud computing|project management,4.8
+Django Web Framework ,Financial aid available,21425,278,build a data model|design a web application,4.8
+Introduction to Databases for Back-End Development,Financial aid available,23131,375,mysql|database (dbms)|database administration,4.6
+The Full Stack,Financial aid available,22205,92,cascading style sheets (css)|html|production environments|javascript|django (web framework),4.6
+APIs,Financial aid available,17383,143,debugging|authentication and authorization|rest apis|filtering and ordering|serializers and deserializers,4.5
+Programming in Python,Financial aid available,53167,904,cloud hosting|application programming interfaces (api)|python programming|computer programming|django (web framework),4.6
+Version Control,Financial aid available,86116,2090,linux|web development|bash (unix shell)|github|version control,4.7
+Introduction to Back-End Development,Financial aid available,89262,2217,,4.7
+"Teach English Now! Second Language Listening, Speaking, and Pronunciation",Financial aid available,70645,1795,teaching|english language|lesson plan|speech,4.9
+Teach English Now! Lesson Design and Assessment,Financial aid available,67166,4363,,4.9
+Teach English Now! Foundational Principles,Financial aid available,200851,13543,,4.9
+"Project Management Communication, Stakeholders & Leadership ",Financial aid available,1719,13,project management|communication|leadership|stakeholder management,4.9
+Teach English Now! Theories of Second Language Acquisition,Financial aid available,82884,6568,,4.9
+"Teach English Now! Second Language Reading, Writing, and Grammar ",Financial aid available,92305,2245,,4.9
+Teach English Now! Capstone Project 1,Financial aid available,30083,2098,,4.9
+"Project Lifecycle, Information Sharing, and Risk Management",Financial aid available,1706,12,project management|risk management|systems development life cycle|information sharing,4.3
+Automate Cybersecurity Tasks with Python,Financial aid available,32189,366,computer programming|python programming|coding|pep 8 style guide,4.8
+"Project Management Foundations, Initiation, and Planning",Financial aid available,3007,27,project management|project planning|project initiation,4.6
+Introduction to Project Management ,Financial aid available,11220,163,project planning|career development|scrum master|agile pm|project management,4.8
+"Assets, Threats, and Vulnerabilities",Financial aid available,38532,471,vulnerability assessment|threat analysis|authentication|cryptography|asset classification,4.8
+Sound the Alarm: Detection and Response,Financial aid available,32718,354,security information and event management (siem) tools|packet analyzer|intrusion detection systems (ids),4.8
+Connect and Protect: Networks and Network Security,Financial aid available,64031,977,cloud networks|network security|security hardening|network architecture|transmission control protocol / internet protocol (tcp/ip),4.8
+Foundations of Cybersecurity,Financial aid available,244508,7080,information security (infosec)|cybersecurity|historical attacks|ethics in cybersecurity|nist cybersecurity framework (csf),4.9
+Play It Safe: Manage Security Risks,Financial aid available,93694,1952,information security (infosec)|security audits|incident response playbooks|nist risk management framework (rmf)|nist cybersecurity framework (csf),4.8
+React Native,Financial aid available,13268,136,react (javascript library)|react|application development|mobile development,4.8
+iOS App Capstone,Financial aid available,1733,15,ios app development|software architecture|ui development|data management,4.5
+Tools of the Trade: Linux and SQL,Financial aid available,49320,779,linux|command line interface (cli)|bash|sql,4.8
+Coding Interview Preparation,Financial aid available,38291,226,pseudocode|algorithms|communication|data structure|computer science,4.7
+Working with Data in iOS,Financial aid available,2401,20,json|apis|core data|swift programming,4.3
+Advanced Programming in Swift,Financial aid available,3762,45,ios app development|application development|swift programming,4.8
+Mobile Development and JavaScript,Financial aid available,5955,47,•	create simple javascript code|•	create and manipulate objects and arrays|•	write unit testing using jest,4.6
+Create the User Interface with SwiftUI,Financial aid available,4276,63,ios app development|use navigation in your apps|application development|swift programming,4.7
+Principles of UX/UI Design,Financial aid available,49742,401,web design|front-end web development|user experience (ux)|accessibility,4.7
+Version Control,Financial aid available,86116,2090,linux|web development|bash (unix shell)|github|version control,4.7
+React Native,Financial aid available,13268,136,react (javascript library)|react|application development|mobile development,4.8
+Programming Fundamentals in Swift,Financial aid available,6822,146,ios app development|application development|swift programming|web development,4.7
+React Basics,Financial aid available,72642,1086,web application|front-end web development|react (web framework)|application development,4.7
+React Basics,Financial aid available,72642,1086,web application|front-end web development|react (web framework)|application development,4.7
+Working with Data in Android,Financial aid available,3881,24,working with sqlite|rest api's|data and databases,4.8
+Android App Capstone ,Financial aid available,2749,17,android studio|kotlin|ux and ui,4.7
+Create the User Interface in Android Studio,Financial aid available,6249,60,use ui component libraries to build android ui|create a simple android ui|compose ui using kotlin ui views|build a simple ui using the layout editor,4.8
+Principles of UX/UI Design,Financial aid available,49742,401,web design|front-end web development|user experience (ux)|accessibility,4.7
+Mobile Development and JavaScript,Financial aid available,5955,47,•	create simple javascript code|•	create and manipulate objects and arrays|•	write unit testing using jest,4.6
+Programming Fundamentals in Kotlin,Financial aid available,9944,162,create arrays|kotlin playground|create control flow patterns using conditionals and loops|practice using and extending protocols.|declare and initialize different types of variables,4.7
+Becoming an SAP Professional,Financial aid available,4617,30,linkedin sap community|learning.sap.com|sap career trends|routes into sap|sap partner roles,4.8
+Introduction to Android Mobile Application Development ,Financial aid available,36287,789,android studio|application development|mobile development,4.6
+SAP Technology Consultant Hands-on Project,Financial aid available,3143,15,customer analysis|business strategy and technology integration|business transformation|explore design build|sap implementation lifecycle,4.7
+Advanced Programming in Kotlin,Financial aid available,5397,39,,4.7
+Version Control,Financial aid available,86116,2090,linux|web development|bash (unix shell)|github|version control,4.7
+SAP Customer Engagement and Discovery,Financial aid available,4180,20,managing workshops|business strategic assessment|customer readiness|customer engagement and exploration|solution proposal and communication,4.8
+Implementing an SAP Solution,Financial aid available,3408,27,deployment|qa and testing|systems building|best practice|go-live,4.9
+Front-End Development Capstone Project,Financial aid available,0,0,web development|react (web framework)|front-end design|front-end development|software development,0.0
+Designing an SAP Solution,Financial aid available,3947,28,solution design|project planning and management|communication|requirements elicitation|gap analysis,5.0
+Designing User Interfaces and Experiences (UI/UX),Financial aid available,0,0,website wireframe|progressive web development|figma|user experience (ux)|user interface design (ui design),0.0
+SAP Professional Fundamentals,Financial aid available,31305,259,client research and analysis|business transformation|planning and project management|communication and engagement|systems and design thinking,4.8
+Intermediate Web and Front-End Development,Financial aid available,0,0,debugging|webpack|wordpress|javascript library|search engine optimization (seo),0.0
+Understanding the Enterprise Systems Environment,Financial aid available,7485,64,digital transformation|intelligent enterprise|sap platform|business analysis|business process design,4.8
+Developing Front-End Apps with React,Financial aid available,23515,213,web development|user interface|react (web framework)|front-end development|javascript,4.3
+IBM Cybersecurity Analyst Assessment ,Financial aid available,25015,948,computer security incident management|professional certificate|cybersecurity analyst,4.8
+Developing Cloud Native Applications,Financial aid available,17889,249,devops|nosql|git (software)|cloud infrastructure|json,4.1
+Getting Started with Git and GitHub,Financial aid available,43953,557,distributed version control (drcs)|open source|version control systems|github|git (software),4.7
+Cybersecurity Capstone:  Breach Response Case Studies,Financial aid available,37235,1265,security analyst|cybersecurity|cyber attack|computer security incident management|breach (security exploit),4.8
+Network Security & Database Vulnerabilities ,Financial aid available,79832,2913,database vulnerabilities|network security|sql injection|cybersecurity|networking basics,4.7
+Cyber Threat Intelligence,Financial aid available,47281,1451,application security|threat intelligence|network defensive tactics|security analyst|cybersecurity,4.7
+"Introduction to Web Development with HTML, CSS, JavaScript",Financial aid available,95937,1409,web development|cascading style sheets (css)|html|git (software)|javascript,4.6
+"Penetration Testing, Incident Response and Forensics",Financial aid available,65539,2058,scripting|forensics|penetration test|cybersecurity|computer security incident management,4.6
+"Cybersecurity Roles, Processes & Operating System Security",Financial aid available,112747,5062,,4.6
+Introduction to Cybersecurity Tools & Cyber Attacks,Financial aid available,369268,14312,information security (infosec)|ibm new collar|malware|cybersecurity|cyber attacks,4.6
+Introduction to Software Engineering,Financial aid available,32210,376,software architecture|python programming|software development lifecycle (sdlc)|software engineering|agile and scrum,4.7
+Introduction to IT Security,Financial aid available,0,0,information security (infosec)|network security|risk management|computer security incident management|mobile security,0.0
+Python Scripting Fundamentals,Financial aid available,0,0,using databases and interacting with web sites|create user-defined functions|structuring code for reuse|developing a simple application|exploring programming concepts,0.0
+"Introduction to Software, Programming, and Databases ",Financial aid available,10663,177,software development process|database basics|it fundamentals|software application development|computer programming,4.8
+Managing Relational Databases,Financial aid available,0,0,relational database concepts|organizing data|working with sql queries and functions|manipulating table data|using subqueries,0.0
+Introduction to Hardware and Operating Systems,Financial aid available,30910,717,operating systems|it fundamentals|technical support|troubleshooting|hardware,4.8
+Full Stack Software Developer Assessment,Financial aid available,11378,79,,4.7
+Cybersecurity Compliance Framework & System Administration,Financial aid available,81075,3002,,4.7
+Application Development using Microservices and Serverless ,Financial aid available,25424,142,serverless|microservices|representational state transfer (rest)|openshift|cloud applications,4.6
+Introduction to Technical Support ,Financial aid available,22322,502,customer service|ticketing systems|technical support|service level agreements (sla)|information technology (it) support,4.8
+"Introduction to Containers w/ Docker, Kubernetes & OpenShift",Financial aid available,64089,569,kubernetes|docker|cloud native|containers|openshift,4.4
+Full Stack Cloud Development Capstone Project,Financial aid available,15499,79,full stack development|web application|node.js|javascript|django (web framework),4.4
+Networking Fundamentals,Financial aid available,0,0,internet protocol (ip) suite|network transmissions and hardware|network theory|network architecture|network management / troubleshooting,0.0
+Developing AI Applications with Python and Flask,Financial aid available,38603,419,artificial intelligence (ai)|web application|python programming|application development|flask,4.3
+Django Application Development with SQL and Databases,Financial aid available,24057,150,relational database (rdbms)|object relational mapping (orm)|sql|django (web framework)|back-end applications,4.6
+"Python for Data Science, AI & Development",Financial aid available,624728,32856,data science|python programming|data analysis|pandas|numpy,4.6
+Developing Front-End Apps with React,Financial aid available,23515,213,web development|user interface|react (web framework)|front-end development|javascript,4.3
+"Introduction to Web Development with HTML, CSS, JavaScript",Financial aid available,95937,1409,web development|cascading style sheets (css)|html|git (software)|javascript,4.6
+Python Scripting Fundamentals,Financial aid available,0,0,using databases and interacting with web sites|create user-defined functions|structuring code for reuse|developing a simple application|exploring programming concepts,0.0
+Developing Back-End Apps with Node.js and Express,Financial aid available,21330,141,web development|back-end development|server-side javascript|express|computer science,4.3
+Getting Started with Git and GitHub,Financial aid available,43953,557,distributed version control (drcs)|open source|version control systems|github|git (software),4.7
+Introduction to Cloud Computing,Financial aid available,217106,4156,cloud native|devops|iaas paas saas|hybrid multicloud|cloud computing,4.6
+Managing Relational Databases,Financial aid available,0,0,relational database concepts|organizing data|working with sql queries and functions|manipulating table data|using subqueries,0.0
+Introduction to IT Security,Financial aid available,0,0,information security (infosec)|network security|risk management|computer security incident management|mobile security,0.0
+Introduction to Web Applications,Financial aid available,0,0,embedding and linking content|adding animation|using advanced techniques to select and apply styles|formatting content with css|authoring content in html,0.0
+Networking Fundamentals,Financial aid available,0,0,internet protocol (ip) suite|network transmissions and hardware|network theory|network architecture|network management / troubleshooting,0.0
+Application Development using Microservices and Serverless ,Financial aid available,25424,142,serverless|microservices|representational state transfer (rest)|openshift|cloud applications,4.6
+Getting Started with Git and GitHub,Financial aid available,43953,557,distributed version control (drcs)|open source|version control systems|github|git (software),4.7
+Introduction to Test Driven Development (TDD),Financial aid available,10347,130,test case|software testing|behavior-driven development|automated testing|test-driven development,4.8
+Developing AI Applications with Python and Flask,Financial aid available,38603,419,artificial intelligence (ai)|web application|python programming|application development|flask,4.3
+Operating Systems Fundamentals,Financial aid available,1932,0,performing basic linux tasks|user and group accounts|managing the file system in linux|managing linux permissions and ownership|managing jobs and processes,0.0
+"Introduction to Containers w/ Docker, Kubernetes & OpenShift",Financial aid available,64089,569,kubernetes|docker|cloud native|containers|openshift,4.4
+Hands-on Introduction to Linux Commands and Shell Scripting,Financial aid available,60903,825,linux|bash (unix shell)|extract transform and load (etl)|linux commands|shell script,4.6
+"Python for Data Science, AI & Development",Financial aid available,624728,32856,data science|python programming|data analysis|pandas|numpy,4.6
+Introduction to Software Engineering,Financial aid available,32210,376,software architecture|python programming|software development lifecycle (sdlc)|software engineering|agile and scrum,4.7
+Introduction to Agile Development and Scrum,Financial aid available,41538,1227,agile software development|scrum methodology|zenhub|kanban|sprint planning,4.9
+Introduction to Cloud Computing,Financial aid available,217106,4156,cloud native|devops|iaas paas saas|hybrid multicloud|cloud computing,4.6
+Introduction to DevOps,Financial aid available,75888,1786,cloud native|devops|ci/cd|agile|tdd/bdd,4.8
+Application Development using Microservices and Serverless ,Financial aid available,25424,142,serverless|microservices|representational state transfer (rest)|openshift|cloud applications,4.6
+Application Security and Monitoring,Financial aid available,7135,68,open web application security project (owasp)|observability|security|monitoring|logging,4.9
+"Introduction to Containers w/ Docker, Kubernetes & OpenShift",Financial aid available,64089,569,kubernetes|docker|cloud native|containers|openshift,4.4
+Getting Started with Git and GitHub,Financial aid available,43953,557,distributed version control (drcs)|open source|version control systems|github|git (software),4.7
+Introduction to Software Engineering,Financial aid available,32210,376,software architecture|python programming|software development lifecycle (sdlc)|software engineering|agile and scrum,4.7
+ System Administration and IT Infrastructure Services,Financial aid available,369394,22978,directory service|lightweight directory access protocol (ldap)|backup,4.7
+"Python for Data Science, AI & Development",Financial aid available,624728,32856,data science|python programming|data analysis|pandas|numpy,4.6
+Hands-on Introduction to Linux Commands and Shell Scripting,Financial aid available,60903,825,linux|bash (unix shell)|extract transform and load (etl)|linux commands|shell script,4.6
+Developing AI Applications with Python and Flask,Financial aid available,38603,419,artificial intelligence (ai)|web application|python programming|application development|flask,4.3
+The Bits and Bytes of Computer Networking,Financial aid available,651824,45251,domain name system (dns)|ipv4|network model|troubleshooting,4.7
+Operating Systems and You: Becoming a Power User,Financial aid available,427043,25898,powershell|linux file systems|linux|command-line interface,4.7
+Django Application Development with SQL and Databases,Financial aid available,24057,150,relational database (rdbms)|object relational mapping (orm)|sql|django (web framework)|back-end applications,4.6
+Responsive Web Design in Adobe XD,Financial aid available,137443,2461,adobe xd|user experience (ux)|usability testing|prototype|user experience design (uxd),4.8
+Technical Support Fundamentals,Financial aid available,1556792,142024,binary code|customer support|linux|troubleshooting,4.8
+Create High-Fidelity Designs and Prototypes in Figma,Financial aid available,167953,3102,user experience (ux)|mockup|figma|prototype|user experience design (uxd),4.8
+Build Wireframes and Low-Fidelity Prototypes,Financial aid available,230764,7040,user experience (ux)|ux research|wireframe|prototype|user experience design (uxd),4.9
+Conduct UX Research and Test Early Concepts,Financial aid available,181904,4124,user experience (ux)|usability testing|ux research|prototype|user experience design (uxd),4.8
+"Start the UX Design Process: Empathize, Define, and Ideate",Financial aid available,394495,12625,user experience (ux)|ux research|wireframe|prototype|user experience design (uxd),4.8
+Foundations of User Experience (UX) Design,Financial aid available,1013074,57108,user experience (ux)|ux research|wireframe|prototype|user experience design (uxd),4.8
+Basic System Programming on IBM Z,Financial aid available,8996,335,system programming|unix|db2|system administration|jcl,4.8
+Introduction to Enterprise Computing,Financial aid available,15634,839,mainframe|z/os|enterprise software|security|ibm z,4.7
+Getting Started on Mainframe with z/OS Commands and Panels,Financial aid available,7819,396,system administration|z/os commands|panels|tso|sysop,4.7
+Coding Interview Preparation,Financial aid available,38291,226,pseudocode|algorithms|communication|data structure|computer science,4.7
+Principles of UX/UI Design,Financial aid available,49742,401,web design|front-end web development|user experience (ux)|accessibility,4.7
+Front-End Developer Capstone ,Financial aid available,28555,171,javascript|front-end web development|user interface|react (web framework),4.5
+ML Pipelines on Google Cloud,Financial aid available,10071,62,,3.6
+Advanced React,Financial aid available,48082,587,unit testing|front-end web development|react (web framework),4.6
+Architecting with Google Kubernetes Engine: Foundations,Financial aid available,57580,2369,,4.7
+Foundations of Project Management,Financial aid available,1402699,69323,organizational culture|career development|strategic thinking|change management|project management,4.9
+Hands-On Labs in Google Cloud for Networking Engineers,Financial aid available,4372,96,,4.7
+Preparing for Your Associate Cloud Engineer Journey,Financial aid available,74336,3007,google cloud|cloud computing|gcp infrastructure|gcp ace certification,4.7
+"Logging, Monitoring and Observability in Google Cloud",Financial aid available,13533,182,,4.7
+Getting Started with Google Kubernetes Engine,,111906,3594,continuous delivery|kubernetes|google cloud platform|jenkins (software),4.5
+Networking in Google Cloud: Hybrid Connectivity and Network Management,Financial aid available,23328,1021,,4.8
+Reliable Google Cloud Infrastructure: Design and Process,Financial aid available,111023,7133,disaster recovery|site reliability engineering|google cloud platform|cloud computing,4.7
+Meta Marketing Science Certification Exam,Financial aid available,3625,71,marketing science|social media marketing|data analysis|facebook advertising|ads manager,4.8
+Developing a Google SRE Culture,Financial aid available,21542,797,sre culture|business value|organizational culture,4.7
+Marketing Analytics with Meta,Financial aid available,11964,133,a/b testing|meta advertising|social media marketing|data analysis|ads manager,4.8
+Data Analytics Methods for Marketing,Financial aid available,13831,166,marketing|marketing mix modeling|data analysis|linear regression|marketing plan,4.7
+Project Practicum with Multiple Projects,,0,66,,4.7
+Statistics for Marketing,Financial aid available,13407,129,marketing|statistical analysis|data analysis|linear regression|statistical hypothesis testing,4.8
+Architecting with Google Kubernetes Engine: Foundations,Financial aid available,57580,2369,,4.7
+Preparing for your Professional Cloud Architect Journey,Financial aid available,62469,1317,,4.7
+Elastic Google Cloud Infrastructure: Scaling and Automation,Financial aid available,124864,9072,load balancing|virtual private network (vpn)|google cloud platform|autoscaling,4.7
+Introduction to Data Analytics,Financial aid available,20820,263,data analysis|marketing|tableau software|data visualization (dataviz),3.7
+Essential Google Cloud Infrastructure: Core Services,Financial aid available,140266,11292,debugging|cloud storage|data store|google cloud platform,4.7
+Marketing Analytics Foundation,Financial aid available,54703,1519,data analysis|marketing|digital marketing,4.8
+Essential Google Cloud Infrastructure: Foundation,Financial aid available,171322,16495,google compute engine|virtual machine|network architecture|google cloud platform,4.7
+Reliable Google Cloud Infrastructure: Design and Process,Financial aid available,111023,7133,disaster recovery|site reliability engineering|google cloud platform|cloud computing,4.7
+Project Execution,,0,116,,4.3
+Project Launch,,1517,238,project management|scope (project management)|communication|work breakdown structure,4.7
+Google Cloud Fundamentals: Core Infrastructure,Financial aid available,686016,47023,google compute engine|google app engine (gae)|google cloud platform|cloud computing,4.7
+Google Cloud Fundamentals: Core Infrastructure,Financial aid available,686016,47023,google compute engine|google app engine (gae)|google cloud platform|cloud computing,4.7
+Palo Alto Networks Network Security Fundamentals,Financial aid available,5027,81,,4.8
+Palo Alto Networks Security Operations  Fundamentals,Financial aid available,3353,78,,4.6
+Project Planning,,0,166,,4.8
+Palo Alto Networks Cybersecurity Foundation,Financial aid available,13837,249,authentication|cryptography|security design|enterprise private network,4.6
+Project Initiation: Starting a Successful Project,Financial aid available,501592,16442,stakeholder management|strategic thinking|business writing|project management|project charter,4.8
+Project Execution: Running the Project,Financial aid available,248599,6512,quality management|strategic thinking|project execution|risk management|project management,4.8
+Palo Alto Networks Cloud Security Fundamentals,Financial aid available,3588,54,cloud computing security|malware|denial-of-service attack (dos)|enterprise private network,4.7
+Networking in Google Cloud: Defining and Implementing Networks,Financial aid available,33509,1526,,4.8
+Project Planning: Putting It All Together,Financial aid available,315459,9856,project planning|strategic thinking|risk management|task estimation|procurement,4.8
+Agile Project Management,Financial aid available,327593,9599,coaching|influencing|agile management|problem solving|scrum,4.8
+Google Cloud Fundamentals: Core Infrastructure,Financial aid available,686016,47023,google compute engine|google app engine (gae)|google cloud platform|cloud computing,4.7
+Security Best Practices in Google Cloud,Financial aid available,13237,332,,4.6
+Hands-On Labs in Google Cloud for Security Engineers,Financial aid available,4565,60,create and understand custom iam roles|secure a kubernetes environment|create and configure network peering,4.8
+Mitigating Security Vulnerabilities on Google Cloud,Financial aid available,16137,700,,4.7
+Managing Security in Google Cloud,Financial aid available,30347,1047,,4.7
+Networking in Google Cloud: Hybrid Connectivity and Network Management,Financial aid available,23328,1021,,4.8
+Capstone: Applying Project Management in the Real World,Financial aid available,201658,6227,quality management|stakeholder management|problem solving|effective communication|project management,4.8
+Google Cloud Fundamentals: Core Infrastructure,Financial aid available,686016,47023,google compute engine|google app engine (gae)|google cloud platform|cloud computing,4.7
+Preparing for Your Professional Cloud Security Engineer Journey,Financial aid available,6928,68,,4.7
+Essential Google Cloud Infrastructure: Core Services,Financial aid available,140266,11292,debugging|cloud storage|data store|google cloud platform,4.7
+Networking in Google Cloud: Defining and Implementing Networks,Financial aid available,33509,1526,,4.8
+Essential Google Cloud Infrastructure: Foundation,Financial aid available,171322,16495,google compute engine|virtual machine|network architecture|google cloud platform,4.7
+Elastic Google Cloud Infrastructure: Scaling and Automation,Financial aid available,124864,9072,load balancing|virtual private network (vpn)|google cloud platform|autoscaling,4.7
+Production Machine Learning Systems,Financial aid available,26893,938,,4.6
+Machine Learning Operations (MLOps): Getting Started,Financial aid available,32335,400,,4.0
+Machine Learning in the Enterprise,Financial aid available,29999,1438,tensorflow|machine learning|cloud computing,4.6
+Google Cloud Fundamentals: Core Infrastructure,Financial aid available,686016,47023,google compute engine|google app engine (gae)|google cloud platform|cloud computing,4.7
+Launching into Machine Learning,Financial aid available,46480,4246,tensorflow|bigquery|machine learning|data cleansing,4.6
+Feature Engineering,Financial aid available,31539,1733,,4.5
+React Basics,Financial aid available,72642,1086,web application|front-end web development|react (web framework)|application development,4.7
+How Google does Machine Learning,Financial aid available,123112,7167,application programming interfaces (api)|inclusive ml|machine learning|google cloud platform|bigquery,4.6
+Google Cloud Big Data and Machine Learning Fundamentals,Financial aid available,294774,15659,tensorflow|bigquery|google cloud platform|cloud computing,4.7
+HTML and CSS in depth,Financial aid available,60707,958,debugging|user interface|react (web framework)|html and css|javascript,4.7
+TensorFlow on Google Cloud,Financial aid available,45294,2724,machine learning|python programming|build input data pipeline|tensorflow|keras,4.4
+Version Control,Financial aid available,86116,2090,linux|web development|bash (unix shell)|github|version control,4.7
+Introduction to Front-End Development,Financial aid available,211405,7579,web development tools|user interface|front-end web development|html and css|responsive web design,4.8
+Programming with JavaScript,Financial aid available,105793,2612,test-driven development|javascript|front-end web development|object-oriented programming (oop),4.7
+Talent Acquisition,Financial aid available,5844,51,employee onboarding|job analysis|recruitment|interviewing,4.9
+Infrastructure and Application Modernization with Google Cloud,Financial aid available,39131,1424,,4.7
+Understanding Google Cloud Security and Operations,Financial aid available,17835,503,,4.8
+Meta Social Media Marketing Capstone,Financial aid available,22498,491,meta advertising|social media marketing|marketing strategy|communication|ads manager,4.8
+Google Cloud Fundamentals: Core Infrastructure,Financial aid available,686016,47023,google compute engine|google app engine (gae)|google cloud platform|cloud computing,4.7
+Financial Statement Analysis,Financial aid available,23406,349,cash flow|bank reconciliation|financial reports analysis|financial statement analysis,4.5
+Application Development with Cloud Run,Financial aid available,2894,30,,4.5
+"App Deployment, Debugging, and Performance",Financial aid available,23345,1144,application deployment|debugging|google cloud|cloud computing|execution environments,4.6
+Meta Spark Creator AR Certification,Financial aid available,0,0,optimizing the scene|ar effect publishing|face tracking|meta spark|world effects,0.0
+Microsoft SC-900 Exam Preparation and Practice,Financial aid available,0,0,information security (infosec)|threat intelligence|security analysis|regulatory compliance|threat mitigation,0.0
+Foundations of AR,Financial aid available,4789,34,ar in industry|2d & 3d design|ar uses|xr spectrum|ar characteristics,4.7
+IBM COBOL Software Development Process,Financial aid available,0,19,,3.9
+AR games using Vuforia SDK,Financial aid available,0,0,unity|visual programming language|c# vuforia|plane detection,0.0
+Using AR Foundation in Unity,Financial aid available,0,0,mathematical optimization|c sharp (c#) (programming language)|unity|ar foundation|marker detection,0.0
+IBM COBOL Basic Testing and Debugging,Financial aid available,0,16,,4.0
+Advanced Cybersecurity Concepts and Capstone Project,Financial aid available,0,0,asset management|threat model|cybersecurity strategies|threat mitigation|access control,0.0
+IBM COBOL Core,Financial aid available,0,24,computer programming|euler's totient function|intrinsic function|sorting,4.4
+IBM COBOL Software Development Practices,Financial aid available,0,27,computer programming|issue tracking system|euler's totient function|scrum (software development),3.7
+Automating Real-World Tasks with Python,Financial aid available,66429,2280,serialization|building a solution|creating and translating media files|interacting with web services,4.8
+IBM COBOL Basics,Financial aid available,2523,45,cobol divisions|cobol coding|column structure|cobol structure|symbols,4.6
+IBM COBOL Data and File Management,Financial aid available,0,21,mainframe|interfaces|computer programming|command-line interface,3.3
+Configuration Management and the Cloud,Financial aid available,88080,2322,automation at scale|configuration management|basic monitoring & alerting|cloud computing|using puppet,4.7
+DevOps Capstone Project,Financial aid available,5297,49,kubernetes|devops|ci/cd|microservices|cloud computing,4.9
+Introduction to Git and GitHub,Financial aid available,231455,6885,using git|version control systems|interacting with github|reverting changes|creating pull requests,4.8
+Troubleshooting and Debugging Techniques,Financial aid available,108317,2709,improving software performance|managing scarce resources|advanced troubleshooting|understanding errors|finding the root cause of a problem,4.6
+Using Python to Interact with the Operating System,Financial aid available,206627,5657,setting up your development environment|regular expression (regex)|testing in python|automating system administration tasks with python|bash scripting,4.7
+Crash Course on Python,Financial aid available,909536,33099,basic python data structures|fundamental programming concepts|basic python syntax|python programming|object-oriented programming (oop),4.8
+Continuous Integration and Continuous Delivery (CI/CD),Financial aid available,10258,96,continuous integration|ci/cd|continuous development|automation|infrastructure as code,4.8
+Introduction to Test Driven Development (TDD),Financial aid available,10347,130,test case|software testing|behavior-driven development|automated testing|test-driven development,4.8
+Application Development using Microservices and Serverless ,Financial aid available,25424,142,serverless|microservices|representational state transfer (rest)|openshift|cloud applications,4.6
+Application Security and Monitoring,Financial aid available,7135,68,open web application security project (owasp)|observability|security|monitoring|logging,4.9
+Introduction to Enterprise Computing,Financial aid available,15634,839,mainframe|z/os|enterprise software|security|ibm z,4.7
+Introduction to Agile Development and Scrum,Financial aid available,41538,1227,agile software development|scrum methodology|zenhub|kanban|sprint planning,4.9
+"Introduction to Containers w/ Docker, Kubernetes & OpenShift",Financial aid available,64089,569,kubernetes|docker|cloud native|containers|openshift,4.4
+Introduction to DevOps,Financial aid available,75888,1786,cloud native|devops|ci/cd|agile|tdd/bdd,4.8
+AR in marketing using Meta Spark,Financial aid available,0,0,mathematical optimization|face tracking|meta spark|ar effect|effects,0.0
+AR for web using JavaScript,Financial aid available,0,0,playcanvas|javascript|web ar|blender,0.0
+Cybersecurity Management and Compliance,Financial aid available,0,0,data management|cloud architecture|cloud computing security|cybersecurity planning|record management,0.0
+Cybersecurity Tools and Technologies,Financial aid available,0,0,cloud computing security|system testing|security testing|penetration test,0.0
+Cybersecurity Threat Vectors and Mitigation,Financial aid available,1922,11,information security (infosec)|threat intelligence|encryption techniques|cybersecurity|compliance techniques,4.6
+Introduction to Networking and Cloud Computing,Financial aid available,3465,28,cloud computing security|network monitoring|network security|computer network,4.8
+Exam Prep: AWS Certified Solutions Architect - Associate,Financial aid available,18498,82,cloud computing security|cloud computing architecture|aws cloud,4.7
+Cybersecurity Solutions and Microsoft Defender,Financial aid available,0,0,information security (infosec)|threat intelligence|cloud computing security|event management|security response,0.0
+Cybersecurity Identity and Access Solutions using Azure AD,Financial aid available,0,0,information security (infosec)|access management|identity governance|enterprise security|authentication methods,0.0
+Unity and C# basics,Financial aid available,0,11,unity|debugging|rigged animation|c# object-oriented programming,4.8
+Architecting Solutions on AWS,Financial aid available,15519,98,software architecture|data analysis|data visualization (dataviz)|aws account management,4.8
+Prepare for AZ-204: Developing Solutions for Microsoft Azure,Financial aid available,2691,14,test preparation|microsoft azure,4.6
+Introduction to Computers and Operating Systems and Security,Financial aid available,18005,128,computer architecture|cybersecurity|cloud computing|operating systems,4.8
+Deploy a website to Azure with Azure App Service,Financial aid available,2324,11,microsoft azure|web application|microsoft visual studio,4.8
+AWS Cloud Technical Essentials,Financial aid available,197285,3960,aws identity and access management|networking on aws|aws management console|cloud computing|aws security,4.8
+Planning for a Google Workspace Deployment,Financial aid available,8438,331,,4.8
+Secure your Cloud Data,Financial aid available,1712,0,data security|network security|cloud computing security|microsoft azure|cloud management,0.0
+Google Workspace Mail Management,Financial aid available,13005,603,,4.8
+Google Workspace Security,Financial aid available,17795,750,,4.7
+Manage Resources in Azure,Financial aid available,1852,0,powershell|microsoft azure|resource management|cloud computing,0.0
+Deploy a website with Azure Virtual Machines,Financial aid available,2031,12,linux|windows|web application|microsoft azure|virtual machine,4.8
+Introduction to Designing Data Lakes on AWS,Financial aid available,17866,166,data science|analytics|big data|data lake|amazon web services (amazon aws),4.7
+Data Storage in Microsoft Azure for Associate Developers,Financial aid available,1954,14,data management|analytics|combination|measurement|continuous function,4.4
+Managing Google Workspace,Financial aid available,16783,924,,4.7
+Introduction to Google Workspace Administration,Financial aid available,47625,2153,,4.7
+Create Serverless Applications					,Financial aid available,9217,52,microsoft azure|cloud-based integration|azure functions,4.5
+Innovating with Data and Google Cloud,Financial aid available,25811,652,,4.8
+Getting Started with Google Kubernetes Engine,,111906,3594,continuous delivery|kubernetes|google cloud platform|jenkins (software),4.5
+Getting Started With Application Development,Financial aid available,45687,2121,cloud storage|data store|google cloud platform|cloud computing,4.5
+Fundamentals of Social Media Advertising,Financial aid available,75103,1996,social media marketing|brand management|campaign management|ad management,4.8
+Connect Your Services with Microsoft Azure Service Bus,Financial aid available,2168,14,data management|message|cloud storage|microsoft azure|communication,4.8
+Advertising with Meta,Financial aid available,68559,2128,social media marketing|meta ads manager|meta advertising,4.8
+Digital Transformation with Google Cloud,Financial aid available,55608,1743,,4.8
+Introduction to Social Media Marketing,Financial aid available,349637,11868,social media marketing|marketing|digital marketing|social media marketing strategy,4.8
+Securing and Integrating Components of your Application,Financial aid available,21940,1314,application programming interfaces (api)|cloud functions|identity management (idm)|cloud endpoints|publish–subscribe pattern,4.6
+Measure and Optimize Social Media Marketing Campaigns,Financial aid available,46074,1477,marketing optimization|digital marketing|digital analytics|marketing strategy|communication,4.9
+Social Media Management ,Financial aid available,144705,4307,content development|content management|social media marketing|content marketing|marketing content development,4.9
+Liabilities and Equity in Accounting,Financial aid available,20220,443,accounts payable and payroll|owner’s equity and owner’s draw|accounting|long-term liabilities and note payable|accounting for liabilities and equity,4.2
+Bookkeeping Basics,Financial aid available,116073,3644,basis of accounting|accounting software|accounting cycle|creating financial statements|double-entry bookkeeping system,4.6
+Introduction to Agile Development and Scrum,Financial aid available,41538,1227,agile software development|scrum methodology|zenhub|kanban|sprint planning,4.9
+"Project Management Communication, Stakeholders & Leadership ",Financial aid available,1719,13,project management|communication|leadership|stakeholder management,4.9
+"Project Lifecycle, Information Sharing, and Risk Management",Financial aid available,1706,12,project management|risk management|systems development life cycle|information sharing,4.3
+Practice Exam for CAPM Certification,Financial aid available,0,0,pmi-capm|business analysis|leadership|agile|project management,0.0
+"Project Management Foundations, Initiation, and Planning",Financial aid available,3007,27,project management|project planning|project initiation,4.6
+Compensation and Benefits,Financial aid available,0,0,benefit types|pay systems|total rewards|compensation strategy,0.0
+Employee Relations,Financial aid available,0,0,business continuity|employee engagement|performance management|employee relations,0.0
+Compliance and Risk Management,Financial aid available,0,0,legal compliance|compliance implementation|compliance strategy|safety compliance|risk management,0.0
+Project Management Capstone,Financial aid available,0,0,agile management|risk management|scrum (software development)|leadership|project management,0.0
+Assets in Accounting,Financial aid available,33662,740,accounts receivable and cash receipts|inventory costing methods|pp&e accounting|asset accounting|depreciation,4.4
+Learning and Development,Financial aid available,1635,18,learning delivery methods|effective training|training needs|learning models,4.7
+Introduction to Project Management ,Financial aid available,11220,163,project planning|career development|scrum master|agile pm|project management,4.8
+Introduction to Statistical Analysis:  Hypothesis Testing,Financial aid available,11452,91,multivariate time series analysis|multivariate analysis|multivariate statistics|predictive modelling,4.6
+Regression Modeling Fundamentals,Financial aid available,4477,40,multivariate time series analysis|surrogate model|multivariate analysis|predictive modelling,4.8
+Practicing for the SAS Programming Certification Exam,Financial aid available,4319,73,,4.9
+Getting Started with SAS Programming,Financial aid available,95950,2882,sas studio|import data|reports|prepare data|sas programs,4.8
+Predictive Modeling with Logistic Regression using SAS ,Financial aid available,4927,45,oversampling|logistic regression|predictive modelling|regression,4.6
+Preparing for the SAS Programming Certification Exam ,Financial aid available,5267,117,,4.8
+Introduction to Artificial Intelligence (AI),Financial aid available,239090,11186,data science|deep learning|artificial intelligence (ai)|jobs|machine learning,4.7
+Doing More with SAS Programming,Financial aid available,28299,898,,4.8
+Building AI Applications with Watson APIs,Financial aid available,18624,690,artifical intelligence|machine learning|python programming|watson ai|chatbot,4.3
+Developing AI Applications with Python and Flask,Financial aid available,38603,419,artificial intelligence (ai)|web application|python programming|application development|flask,4.3
+Advanced SAS Programming Techniques,Financial aid available,3136,81,,4.9
+Google Cloud Big Data and Machine Learning Fundamentals,Financial aid available,294774,15659,tensorflow|bigquery|google cloud platform|cloud computing,4.7
+"Python for Data Science, AI & Development",Financial aid available,624728,32856,data science|python programming|data analysis|pandas|numpy,4.6
+Structured Query Language (SQL) using SAS ,Financial aid available,12741,235,,4.9
+SAS Macro Language,Financial aid available,5870,130,,4.8
+Create and Lead an Ethical Data-Driven Organization,Financial aid available,10428,70,code of ethics|policy|ethical leadership|ethics of artificial intelligence|governance,4.6
+Preparing for Your CertNexus Certification Exam,Financial aid available,10223,120,test preparation|schedule|certification|pearsonvue|online proctored,4.8
+Creating Advanced Reports with SAS Visual Analytics,Financial aid available,9559,199,,4.7
+AI Capstone Project with Deep Learning ,Financial aid available,17239,467,,4.5
+Machine Learning Capstone,Financial aid available,5258,29,artificial neural network|python programming|data analysis|supervised learning|unsupervised machine learning,4.3
+Getting Started with SAS Visual Analytics ,Financial aid available,25432,827,,4.7
+Building Deep Learning Models with TensorFlow,Financial aid available,21381,740,,4.4
+Deep Neural Networks with PyTorch,Financial aid available,51248,1421,,4.4
+Introduction to Computer Vision and Image Processing,Financial aid available,51436,975,deep learning|opencv|artificial intelligence (ai)|image processing|computer vision,4.3
+"Performing Network, Path, and Text Analyses in SAS Visual Analytics",Financial aid available,8403,186,,4.7
+Using Data for Geographic Mapping and Forecasting in SAS Visual Analytics,Financial aid available,8799,208,,4.8
+Data Analysis and Reporting in SAS Visual Analytics,Financial aid available,13528,336,,4.8
+Communicate Effectively about Ethical Challenges in Data-Driven Technologies,Financial aid available,10449,66,marketing|business strategy|leadership and management|communication|crisis management,4.4
+Machine Learning with Python,Financial aid available,357303,14416,scipy and scikit-learn|machine learning|regression|classification|hierarchical clustering,4.7
+Introduction to Deep Learning & Neural Networks with Keras,Financial aid available,38653,1343,deep learning|artificial neural network|artificial intelligence (ai)|machine learning|keras,4.7
+ Unsupervised Machine Learning,Financial aid available,16479,194,dimensionality reduction|unsupervised learning|cluster analysis|k means clustering|principal component analysis (pca),4.7
+Deep Learning and Reinforcement Learning,Financial aid available,16211,151,deep learning|artificial neural network|machine learning|reinforcement learning|keras,4.5
+Exploratory Data Analysis for Machine Learning,Financial aid available,66784,1323,artificial intelligence (ai)|machine learning|feature engineering|statistical hypothesis testing|exploratory data analysis,4.6
+Supervised Machine Learning: Regression,Financial aid available,23836,422,regression analysis|supervised learning|linear regression|ridge regression|machine learning (ml) algorithms,4.7
+Detect and Mitigate Ethical Risks,Financial aid available,11422,78,risk management|general statistics|risk assessment|ethics of artificial intelligence|privacy,4.5
+Promote the Ethical Use of Data-Driven Technologies,Financial aid available,15153,183,,4.7
+ Supervised Machine Learning: Classification,Financial aid available,18666,255,decision tree|ensemble learning|classification algorithms|supervised learning|machine learning (ml) algorithms,4.8
+Turn Ethical Frameworks into Actionable Steps,Financial aid available,11699,106,business analysis|information privacy|business strategy|compliance|ethics of artificial intelligence,4.7
+Finalize a Data Science Project,Financial aid available,0,0,data science|communication|data visualization (dataviz)|production pipeline|data model,0.0
+Analyze Data,Financial aid available,0,14,data insight|data analysis|dissemination|preprocess data|data visualization (dataviz),4.7
+"Extract, Transform, and Load Data",Financial aid available,2856,16,"extraction, transformation and loading (etl)|cleaning|data mining",4.8
+Train Machine Learning Models,Financial aid available,0,0,design of experiments|machine learning|clustering|regression|classification,0.0
+Address Business Issues with Data Science ,Financial aid available,2261,18,data-informed decision-making|scope (project management)|business process,4.6
+Preparing for the Google Cloud Professional Data Engineer Exam,Financial aid available,43509,965,,4.6
+Building Batch Data Pipelines on Google Cloud,Financial aid available,41673,1629,,4.5
+"Smart Analytics, Machine Learning, and AI on Google Cloud",Financial aid available,33714,1183,,4.6
+Building Resilient Streaming Analytics Systems on Google Cloud,Financial aid available,33239,1205,,4.6
+Modernizing Data Lakes and Data Warehouses with Google Cloud,Financial aid available,47858,2713,,4.7
+Getting Started with AI using IBM Watson,Financial aid available,49243,2747,deep learning|application programming interfaces (api)|artificial intelligence (ai)|machine learning|watson,4.5
+Building AI Powered Chatbots Without Programming,Financial aid available,54048,2437,,4.8
